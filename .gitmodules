@@ -1,0 +1,6 @@
+[submodule "GICM_FPGA_tutorials"]
+	path = GICM_FPGA_tutorials
+	url = https://github.com/PhysicsUdeA/GICM_FPGA_tutorials.git
+[submodule "GICM_MPU_tutorials"]
+	path = GICM_MPU_tutorials
+	url = https://github.com/PhysicsUdeA/GICM_MPU_tutorials.git
